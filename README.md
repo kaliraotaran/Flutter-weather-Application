@@ -1,16 +1,5 @@
-# weather_api
+<img width="426" alt="image" src="https://github.com/kaliraotaran/Flutter-weather-Application/assets/81376236/1b6011a0-8895-44d7-884c-0435a5f6b532">
 
-A new Flutter project.
 
-## Getting Started
+<img width="426" alt="image" src="https://github.com/kaliraotaran/Flutter-weather-Application/assets/81376236/8c3ae3f0-7b16-4091-94cf-478d08b92ba8">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
